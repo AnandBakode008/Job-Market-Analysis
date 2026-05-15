@@ -85,7 +85,7 @@ Optional: SQL Server Data Tools for .rdl editing
 
 Steps
 bash# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Job-Market-Analysis.git
+git clone https://github.com/AnandBakode008/Job-Market-Analysis.git
 
 # 2. Navigate to the project folder
 cd Job-Market-Analysis
